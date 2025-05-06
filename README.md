@@ -24,11 +24,13 @@ This project implements a 4-bit Arithmetic Logic Unit (ALU) in Verilog HDL using
 ## 📁 File Structure
 
 ```
-├── alu.v              # Verilog ALU design
-├── alu_tb.v           # Verilog testbench for ALU
-├── alu.xpr            # Vivado project file
-├── rtl_schematic.png  # RTL schematic diagram (Vivado output)
-├── simulation.png     # Simulation waveform output
+ALU_Project/
+├── alu.v          # Verilog ALU design
+├── alu_tb.v       # Verilog testbench for ALU
+├── README.md      # readme
+└── images/
+    ├── rtl_schematic.png        # RTL schematic diagram (Vivado output)
+    └── simulation_waveform.png   # Simulation waveform output
 ```
 
 ## 🧪 Simulation
