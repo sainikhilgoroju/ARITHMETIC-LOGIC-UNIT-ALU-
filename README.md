@@ -41,11 +41,12 @@ The testbench tests all 5 operations by varying `sel` input and keeping A = 5 (0
 
 ## 🖼️ RTL Schematic
 
-![RTL Schematic](a5d7afe7-ab41-4d0e-893e-d715e6e90010.png)
+![RTL Schematic](images/rtl_schematic.png)
 
 ## 🖥️ Simulation Output
 
-![Simulation Waveform](3a6d4af7-e4ef-416c-b1cd-c297864eed4a.png)
+![Simulation Waveform](images/simulation_waveform.png)
+
 
 ## 🚀 How to Run
 
